@@ -5,8 +5,8 @@ Insipirated from https://www.toptal.com/ethereum/one-click-login-flows-a-metamas
 We are now able to surclass the old method of authentication through username/mail/password using instead
 our wallets to login in any dapp.
 
-This metod is based on wallet signs that allow the backend to recognise if the wallet that is interacting with the dapp
-is really owned by the users or no.
+This method is based on wallet signs that allow the backend to recognise if the wallet that is interacting with the dapp
+is really owned by the user or no.
 
 
 ### Setup
@@ -26,6 +26,8 @@ is really owned by the users or no.
 - `cd frontend`
 - `npm i`
 - `npm start`
+
+#### Once the frontend/backend are up and running follow this steps
 
 - Connect your wallet by clicking the metamask or the walletconnect image.
 - Once your wallet is connected and you backend is running clicke the *Login* Button
